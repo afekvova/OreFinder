@@ -1,0 +1,6 @@
+name: OreFinder
+main: ru.afek.orefinder.OreFinder
+version: 1.0
+author: Afek
+commands:
+  orefinder:
