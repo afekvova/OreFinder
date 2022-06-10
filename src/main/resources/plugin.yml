@@ -1,6 +1,9 @@
 name: OreFinder
-main: ru.afek.orefinder.OreFinder
-version: 1.0
-author: Afek
+version: '${version}'
+main: me.afek.orefinder.OreFinderPlugin
+api-version: 1.18
+authors: [ Afek ]
+website: t.me/afekvova, github.com/afekvova
+
 commands:
   orefinder:
